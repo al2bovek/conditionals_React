@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "git@github.com:al2bovek/conditionals_React.git",
+  "homepage": "https://al2bovek.github.io/conditionals_React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
